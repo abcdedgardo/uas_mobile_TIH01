@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586381596594",
+    "firebase_url": "https://uasmobiletih01.firebaseio.com",
+    "project_id": "uasmobiletih01",
+    "storage_bucket": "uasmobiletih01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586381596594:android:5173d427b5b28395ddf6ab",
+        "android_client_info": {
+          "package_name": "com.example.uas_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586381596594-umsn841jj4q7f1h91ptuh42n21qpvm98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB05b-9_Bxsza-jQvRnXUREzl4R4GccH5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586381596594-umsn841jj4q7f1h91ptuh42n21qpvm98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
